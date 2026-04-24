@@ -3,12 +3,15 @@
 A console password manager with XOR encryption built on CPP
 
 What the program can do:
+
 Encrypt passwords using XOR.
+
 Securely store passwords in a text file in encrypted form.
+
 You can add new passwords and view a list of existing ones.
 
 Programs used:
-C++ language
+C++.
 Fstream, string, and iostream libraries.
 
 How to run:
